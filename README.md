@@ -1,2 +1,2 @@
 # DN_neuron_analysis
-Analysis pipelines for invesigating descending neuron (DN) activity
+Analysis pipelines for investigating descending neuron (DN) activity
